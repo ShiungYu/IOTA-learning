@@ -1,0 +1,3 @@
+First, go to https://rustup.rs/ and downlaod rustup for using cargo commend
+Second,  $git clone https://github.com/iotaledger/iota.rs.git
+Third, follow https://github.com/iotaledger/iota.rs/tree/production/bindings/python steps
