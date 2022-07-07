@@ -1,1 +1,1 @@
-https://iotazh.gitbook.io/iota-guidebook/qi-ta-zi-yuan/tangle-illustrated/tangle-illustrated-p2
+隨機漫步演算法參考: https://iotazh.gitbook.io/iota-guidebook/qi-ta-zi-yuan/tangle-illustrated/tangle-illustrated-p2
